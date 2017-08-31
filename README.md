@@ -1,0 +1,2 @@
+# hellnotes
+Notes about HellMOO.
